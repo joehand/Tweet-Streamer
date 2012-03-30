@@ -3,7 +3,7 @@ http://net.tutsplus.com/tutorials/javascript-ajax/learning-serverside-javascript
 
 Some updates were required with most recent version of Node.js:
 
-*response.close() changed to response.end()
-*response.sendHeader() changed to response.writeHead
+* response.close() changed to response.end()
+* response.sendHeader() changed to response.writeHead
 
 Will be building on this a little to experiment. Trying out other parts of api, expanding to make more modular, etc.
